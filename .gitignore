@@ -1,0 +1,5 @@
+#Ignoramos el directorio de .ipynb_checkpoints
+.ipynb_checkpoints
+
+#Ignoramos el directorio de venv
+venv
